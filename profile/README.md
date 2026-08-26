@@ -16,5 +16,8 @@ Under dessa veckor fokuserar kursen på React och Next.js (App Router) för att 
 ## Agila projektmetoder (ca 1 vecka)
 Denna vecka ger en introduktion till agila metoder med fokus på SCRUM. Vi utforskar agila principer som flexibilitet och ständig förbättring. Ni lär er om olika roller inom ett agilt team och hur dessa samverkar för att effektivt driva projekt med ett resultatorienterad mindset.
 
+## Individuellt Portfolioprojekt (ca 2 veckor)
+Valbart projektarbete för att öva mer på sånt man vill repetera eller nya koncept man vill utforska. 
+
 ## Next.js grupprojekt (ca 4 veckor)
 Projekt där vi fokuserar på Agila projektmetoder tillsammans med det annat vi lärt oss under kursens gång
