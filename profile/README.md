@@ -10,7 +10,7 @@ Under de första veckorna behandlar kursen grundläggande HTML och CSS. Vi arbet
 ## Typescript (ca 3 veckor)
 Från grundläggande syntax och datatyper till mer avancerade funktkioner och asynkron programmering. Vi kommer även att gå igenom DOM-manipulering vilket är essentiellt för att skapa interaktiva användarupplevelser på webben.
 
-## React/Next.js (ca 8 veckor)
+## React/Next.js (ca 4-5 veckor)
 Under dessa veckor fokuserar kursen på React och Next.js (App Router) för att utveckla moderna webbapplikationer. Vi skapar och hanterar komponenter, använder props för dataflöden samt implementerar hooks, routes och state management.
 
 ## Agila projektmetoder (ca 1 vecka)
